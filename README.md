@@ -1,3 +1,3 @@
 # planets  
 cambio de linea son dos espacios y enter  
-## titulos mas pequeños nose que
+## titulos mas pequeños van con dos gatos
